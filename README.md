@@ -7,3 +7,5 @@ To run the development server:
 The API endpoints used are:
 1. For map(leaflet) - https://disease.sh/v3/covid-19/countries
 2. For line graph - https://disease.sh/v3/covid-19/historical/all?lastdays=all
+
+Deployed website - https://taiyo-ai-assignment.netlify.app/
